@@ -98,4 +98,4 @@ Us deixem alguns enllaços que poden resultar d'ajuda:
 
 [Image processing in Python](https://pythongeeks.org/image-processing-in-python/)
 
-[How to classify figures by their shape and color](https://youtu.be/V-_O7nl0Ii0?t=17
+[How to classify figures by their shape and color](https://youtu.be/V-_O7nl0Ii0?t=17)
