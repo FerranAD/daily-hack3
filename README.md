@@ -28,7 +28,7 @@ En quant als colors, us demanarem que els classifiqueu segons:
 - Verd
 
 Però __compte__, perquè __apareixeran diverses tonalitats de cadascun dels colors esmentats__, així que per exemple, haureu de considerar com a color
-vermell tots els possibles derivats d'aquests (veient les imatges de referència s'entén millor).
+vermell tots els possibles derivats d'aquest (veient les imatges de referència s'entén millor).
 
 # Material proporcionat 📦
 
@@ -44,7 +44,7 @@ Les imatges de test us serviran per a realitzar proves del funcionament del vost
 
 # Que ha de fer el meu programa? 👨‍💻
 
-El que es demana és un programa que rebi un arxiu `.png` com a argument, i com a sortida mostri una classificació de les figures identificades segons forma i color.
+El que es demana és un programa que rebi un arxiu `.png` com a argument, i com a sortida mostri tant el nombre de logos de LleidaHack que apareixen, com una classificació de les figures identificades segons forma i color.
 
 ## Exemple 🐍
 
@@ -88,6 +88,9 @@ El guanyador serà qui presenti el programa amb major precisió. I per avaluar l
 
 Aquestes imatges seran del estil de les que teniu a la carpeta `test-images`, concretament seran semblants a les imatges: `test1.png`, `test2.png` i `test3.png` (tot i que poden contenir un major nombre de figures).
 
+# Entrega 🚚
+Caldrà entregar el programa que hagueu desenvolupat, junt amb una molt breu documentació explicant com fer-lo funcionar. És important que detalleu com usar-lo ja que pot ser un impediment a l'hora d'avaluar.
+
 # Informació útil 🐒
 Us deixem alguns enllaços que poden resultar d'ajuda:
 
@@ -95,4 +98,4 @@ Us deixem alguns enllaços que poden resultar d'ajuda:
 
 [Image processing in Python](https://pythongeeks.org/image-processing-in-python/)
 
-[How to classify figures by their shape and color](https://youtu.be/V-_O7nl0Ii0?t=17)
+[How to classify figures by their shape and color](https://youtu.be/V-_O7nl0Ii0?t=17
