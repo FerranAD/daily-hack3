@@ -5,7 +5,7 @@
 
 # Quin és el repte? 🤔
 
-Aquest segon DailyHack consistirà en crear un programa capaç de classificar
+Aquest tercer DailyHack consistirà en crear un programa capaç de classificar
 les diferents figures d'una imatge segons forma i color. A banda de les figures, també caldrà identificar quants logos de LleidaHack apareixen.
 
 ## Formes 🖼
