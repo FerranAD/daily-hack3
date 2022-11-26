@@ -82,11 +82,87 @@ Logos:          4
 
 __PD__: Tot i que en l'exemple s'utilitza Python com a llenguatge, podeu utilitzar el llenguatge que vulgueu (tot i que Python pot resultar de gran utilitat degut a les eines que proporciona per aquest tipus de tasques)
 
-# Com es decidirà el guanyador? 🏆
+# Com s'ha decidit el guanyador? 🏆
 
-El guanyador serà qui presenti el programa amb major precisió. I per avaluar la precisió del que ens entregueu, usarem una sèrie d'imatges que no us proporcionarem fins que s'acabi el repte.
+El guanyador/a s'ha escollit amb les imatges del directori `avaluació`, i el procediment ha estat per rondes. És a dir, per cadascuna de les 3 imatges, s'han executat tots les programes entregats, i s'ha escollit com a guanyador de la ronda al més precís. Qui guanyi més rondes, guanya.
 
-Aquestes imatges seran del estil de les que teniu a la carpeta `test-images`, concretament seran semblants a les imatges: `test1.png`, `test2.png` i `test3.png` (tot i que poden contenir un major nombre de figures).
+El conteig de les formes i colors dels fitxers d'avaluació són:
+
+
+```bash
+#################### Avaluació 1 #########################
+
+Classificació:
+
+----------- COLOR ------------
+
+Vermelles:      11
+Verdes:         11
+Blaves:         10
+
+----------- FORMES -----------
+
+Triangles:      8
+Quadrats:       9
+Rectangles:     12
+Cercles:        6
+
+------ LOGOS LLEIDAHACK ------
+
+Logos:          6
+
+
+```
+
+```bash
+#################### Avaluació 2 #########################
+
+Classificació:
+
+----------- COLOR ------------
+
+Vermelles:      22
+Verdes:         23
+Blaves:         19
+
+----------- FORMES -----------
+
+Triangles:      14
+Quadrats:       14
+Rectangles:     17
+Cercles:        10
+
+------ LOGOS LLEIDAHACK ------
+
+Logos:          8
+
+
+```
+
+```bash
+#################### Avaluació 3 #########################
+
+Classificació:
+
+----------- COLOR ------------
+
+Vermelles:      4
+Verdes:         6
+Blaves:         6
+
+----------- FORMES -----------
+
+Triangles:      1
+Quadrats:       6
+Rectangles:     4
+Cercles:        5
+
+------ LOGOS LLEIDAHACK ------
+
+Logos:          4
+
+
+```
 
 # Entrega 🚚
 Caldrà entregar el programa que hagueu desenvolupat, junt amb una molt breu documentació explicant com fer-lo funcionar. És important que detalleu com usar-lo ja que pot ser un impediment a l'hora d'avaluar.
